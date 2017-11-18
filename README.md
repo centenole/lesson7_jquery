@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 17, 2017
 
 ### Student Name:  
-(First and Last Name)
+Steven Centeno
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this project I used javascript and jquery to modify an html document that displayed the recipe and instructions for making brownies.
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://centenole.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to add animations and effects to the click and hover functions.
+2. I learned how to manipulate html documents using the jquery console.
+3. I learned how to modify text elements through jquery by calling upon the element names.
 
